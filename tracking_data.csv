@@ -1,0 +1,301 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+influencer,Campaign_C,16,9f66a458-eb68-452a-ab52-f37e8ef05efb,Multivitamin,2025-06-16,1,92.3
+influencer,Campaign_B,20,061ed62b-9492-4535-9cb7-e5634b0ae097,Whey Protein,2025-05-22,2,205.11
+influencer,Campaign_A,8,117d8ec4-71e3-4fc4-b189-ccc6bc645481,Multivitamin,2025-07-10,1,23.4
+influencer,Campaign_C,16,321ef79e-9ab0-48f3-abcb-de3cd48e41b6,Whey Protein,2025-06-17,4,130.19
+influencer,Campaign_A,19,d1ebe734-69bc-4220-b508-288ce4ea4b3b,Creatine,2025-06-07,4,125.9
+influencer,Campaign_C,5,1c53876f-aa90-4566-a49c-f35eba725ac4,Whey Protein,2025-06-22,1,235.74
+influencer,Campaign_A,8,7a025b4b-4784-4976-94c1-887088b1a525,Creatine,2025-06-24,1,171.65
+influencer,Campaign_B,4,680bf988-f42f-4bec-a334-e1d15e60387a,Multivitamin,2025-06-18,4,203.6
+influencer,Campaign_C,18,bb396cfd-b10e-489c-88ae-797839be27d9,Mass Gainer,2025-05-28,4,187.67
+influencer,Campaign_B,17,a257a5b5-cbd9-4daa-9376-01447ef19afd,Creatine,2025-05-22,2,225.66
+influencer,Campaign_B,16,9a31021d-3d88-4162-a20c-0f8b4b4d2aac,Mass Gainer,2025-07-14,2,253.56
+influencer,Campaign_C,9,22f395f3-8017-4262-993c-f5833d24d3f1,Creatine,2025-05-25,2,89.63
+influencer,Campaign_C,3,bc7ca7b4-8f4c-4810-a790-1b7d18a7c5cb,Mass Gainer,2025-06-03,2,88.8
+influencer,Campaign_C,11,a4c9341f-e489-4d2d-9f6e-35e84a578ee2,Whey Protein,2025-06-29,2,53.74
+influencer,Campaign_C,13,d54963da-26c8-4678-8ea7-d334df8b6e5a,Multivitamin,2025-05-26,2,28.63
+influencer,Campaign_B,14,c294a0b7-7f4f-4161-80e7-a1db587b2c21,Creatine,2025-07-05,4,28.06
+influencer,Campaign_B,14,f3173253-831c-4dd2-b294-d6e87086c27b,Whey Protein,2025-06-16,5,120.31
+influencer,Campaign_B,1,f56b0c4c-9d4a-45b9-82da-3df58db9bad0,Mass Gainer,2025-06-01,4,257.5
+influencer,Campaign_C,14,d72e7b03-dfcb-4e9c-ae63-97ba8da18161,Multivitamin,2025-06-10,4,73.63
+influencer,Campaign_B,14,d963d222-e6b5-46a6-ba90-18c945e35451,Whey Protein,2025-05-22,4,107.48
+influencer,Campaign_C,13,cd66a35f-4328-4c31-8b19-299b7861ca38,Multivitamin,2025-07-09,4,276.67
+influencer,Campaign_C,20,fd82bc57-8380-4553-acda-c65722cc8b57,Whey Protein,2025-05-27,4,181.65
+influencer,Campaign_A,1,0af9ff92-95d8-490a-8d88-bf5a5d01a8fb,Creatine,2025-06-01,2,261.39
+influencer,Campaign_A,6,3f6d63b1-275c-4436-a5a0-15dccde51d0d,Mass Gainer,2025-06-15,4,104.93
+influencer,Campaign_B,15,5e703210-816d-4dfa-a026-14f8657c9924,Mass Gainer,2025-06-30,4,90.69
+influencer,Campaign_B,14,366b3ec2-d037-48d6-912d-d104a14e7d5b,Whey Protein,2025-06-05,4,15.62
+influencer,Campaign_A,18,40bbe649-9bd7-4735-a488-191abe087185,Mass Gainer,2025-06-03,2,198.54
+influencer,Campaign_A,2,9ec59835-77b8-45dc-8630-9beb3aa98612,Multivitamin,2025-06-05,2,253.38
+influencer,Campaign_A,20,da868d88-8d93-47ae-b220-76d29dc4e0fd,Multivitamin,2025-06-08,2,147.33
+influencer,Campaign_C,4,48ad243c-6d82-4281-854b-99a6e742c75c,Multivitamin,2025-06-17,4,212.84
+influencer,Campaign_A,12,9b3f8b36-47dd-4a3f-b89e-84d31bf5518d,Whey Protein,2025-07-07,2,289.77
+influencer,Campaign_C,4,d74604fd-7c40-457f-b48f-514e8bf85794,Whey Protein,2025-07-15,3,176.98
+influencer,Campaign_B,13,4cb28cc8-15b4-40d4-b417-8ada04ab4356,Multivitamin,2025-06-30,1,181.71
+influencer,Campaign_A,8,cae55b42-3865-402a-b00b-a879aba996f9,Mass Gainer,2025-06-06,5,243.6
+influencer,Campaign_A,19,a91cb43e-43e4-4adb-82bc-2e0b1dea3d0c,Mass Gainer,2025-05-25,5,134.23
+influencer,Campaign_A,12,21de3165-3b4a-4831-8754-cd8655bf6818,Mass Gainer,2025-06-24,1,256.38
+influencer,Campaign_A,16,c29da3ad-653b-417f-8aa9-1667d29c2258,Creatine,2025-05-21,3,194.32
+influencer,Campaign_C,15,0f5bb7c7-25e5-4362-bf1b-21777600ff80,Multivitamin,2025-07-14,4,61.08
+influencer,Campaign_C,17,a55fbc4a-531b-48e2-a62a-28fa1c8f469d,Mass Gainer,2025-06-11,5,244.38
+influencer,Campaign_B,18,489a9a95-b340-421b-b2ae-9b57f237f569,Creatine,2025-06-01,4,249.46
+influencer,Campaign_B,19,ed8f214d-bc13-4aca-9fea-de6829c07086,Mass Gainer,2025-07-03,2,250.91
+influencer,Campaign_B,3,aeefb44b-9353-4839-88c3-d0265185d171,Creatine,2025-06-28,2,227.64
+influencer,Campaign_C,19,f05c272d-4033-41d9-9c98-d9098347095c,Creatine,2025-06-19,3,18.32
+influencer,Campaign_A,11,69eea748-2716-44bf-a458-890a82f6a9b5,Creatine,2025-05-29,2,112.9
+influencer,Campaign_B,9,da13e5fb-4e52-4e1f-9896-8bee83d7ca44,Mass Gainer,2025-07-18,5,213.34
+influencer,Campaign_C,9,9d937d27-efbe-40c7-916b-e18239cd0f33,Whey Protein,2025-07-19,5,284.94
+influencer,Campaign_A,3,8e5242c2-8053-4156-8e2a-750fa8986cc1,Creatine,2025-07-06,4,171.0
+influencer,Campaign_C,8,83599798-608a-48a5-b72a-1010b4ca3e13,Creatine,2025-05-26,4,139.97
+influencer,Campaign_A,1,c0f298da-2000-4c44-b5a2-9dbdc88d5633,Mass Gainer,2025-06-09,2,127.28
+influencer,Campaign_B,8,aafc814c-35e2-490d-bc8d-afdad0b8483c,Mass Gainer,2025-07-11,4,170.51
+influencer,Campaign_B,12,d95f2ad6-52a9-4831-8daa-fe2930af9c1b,Mass Gainer,2025-07-04,3,213.83
+influencer,Campaign_B,9,24a5c55e-027d-40f6-a466-226fbb4a6f48,Mass Gainer,2025-06-11,2,44.99
+influencer,Campaign_B,7,236aedc4-0b29-46df-9530-4bed06c89f25,Whey Protein,2025-07-16,5,285.75
+influencer,Campaign_A,6,73bf3c5e-0777-453b-a211-df786e955272,Multivitamin,2025-05-30,4,90.18
+influencer,Campaign_C,19,0268f0e9-f4f9-4856-af39-ccf3cf56c73b,Mass Gainer,2025-06-21,1,251.46
+influencer,Campaign_A,10,fd29b9d4-7620-416a-bf62-043cab876ea1,Mass Gainer,2025-06-19,2,97.66
+influencer,Campaign_A,18,0cbff22e-09dd-455d-b1ca-8a2858eacca3,Mass Gainer,2025-06-09,1,292.55
+influencer,Campaign_B,18,267b3b81-88a5-4bfb-939a-c47ea079ef00,Multivitamin,2025-06-11,4,39.75
+influencer,Campaign_C,1,52110cd1-191c-4a48-8a1f-be05c5944923,Mass Gainer,2025-07-01,4,148.83
+influencer,Campaign_A,11,d09ef162-94a0-4d3a-9a7d-f8c2be084942,Whey Protein,2025-06-16,3,282.91
+influencer,Campaign_A,16,22313d30-9ee7-4416-afbe-64e5d436da85,Whey Protein,2025-06-07,4,152.61
+influencer,Campaign_C,19,a594bf6c-a30e-4600-acad-892697f61649,Whey Protein,2025-07-16,2,53.27
+influencer,Campaign_B,19,01c46c05-8fdd-4589-93a7-65850759a518,Whey Protein,2025-06-22,2,44.35
+influencer,Campaign_C,14,fabd61e3-fb43-4ff3-ac75-ba3bb358d85f,Multivitamin,2025-06-16,5,120.31
+influencer,Campaign_B,15,fffe05ef-4ec1-4b66-acd0-c0fcd6134d17,Creatine,2025-07-17,3,174.9
+influencer,Campaign_C,2,5207e238-db12-4d51-bb51-05a9bb00c3f6,Whey Protein,2025-06-11,2,191.4
+influencer,Campaign_C,9,62473f95-e304-4f26-863c-7d40b4c962cf,Whey Protein,2025-06-10,2,79.56
+influencer,Campaign_A,18,992b2de3-ab3b-4d99-9b45-eec3a1e8f2d5,Multivitamin,2025-05-25,1,128.47
+influencer,Campaign_B,20,8b19527a-2d36-4d24-804f-caa00bffe99d,Mass Gainer,2025-06-10,1,77.13
+influencer,Campaign_C,10,f5370349-01bc-474a-87ce-22bc2a609752,Creatine,2025-06-04,1,209.34
+influencer,Campaign_C,9,fb8ae462-324a-4136-a47e-6dc0b8193f11,Multivitamin,2025-07-06,4,43.29
+influencer,Campaign_C,8,a64022d1-6956-4536-94a6-7a70fe1588dc,Multivitamin,2025-07-09,3,249.72
+influencer,Campaign_A,3,5add1fa8-954f-4e08-b5d5-60e6ce042cfd,Multivitamin,2025-06-30,3,182.56
+influencer,Campaign_B,19,e5fcade8-5e0c-4669-91c9-7992fba064e2,Creatine,2025-07-11,1,145.92
+influencer,Campaign_C,10,9c9cf8c0-3d5a-486f-8a17-d092284473df,Creatine,2025-05-29,3,155.14
+influencer,Campaign_B,16,61dfc5d3-0a87-41af-acb7-6b7ddf84ab6c,Whey Protein,2025-07-05,5,21.56
+influencer,Campaign_C,14,9a363a72-98ab-4313-95a2-45af8f738c25,Mass Gainer,2025-07-07,5,82.61
+influencer,Campaign_A,3,8056968f-f5a4-4a73-87df-8413076e1235,Whey Protein,2025-07-12,3,177.11
+influencer,Campaign_B,6,5e84aa02-8916-4bbf-b658-0902a31f99db,Creatine,2025-06-20,3,62.63
+influencer,Campaign_B,19,506fb454-6cbf-4dae-8d95-62794266e15b,Creatine,2025-06-05,1,146.3
+influencer,Campaign_B,14,6c8eb83c-a50e-4028-8717-930563a34793,Mass Gainer,2025-05-26,1,258.74
+influencer,Campaign_B,11,824b8cd9-94ef-43d1-9812-177534d374d7,Creatine,2025-06-10,3,202.15
+influencer,Campaign_C,13,774123bb-91df-462e-b9c0-ef7668058369,Whey Protein,2025-06-10,4,35.54
+influencer,Campaign_B,9,7cbcdc73-9544-49fe-928b-750d606dcf4b,Whey Protein,2025-05-25,4,260.82
+influencer,Campaign_C,1,597831c9-6e1f-48b1-be74-740be720c54a,Creatine,2025-07-14,4,25.72
+influencer,Campaign_B,17,8cb8ce08-b2b1-4757-bdd8-6c9dabd96237,Creatine,2025-07-19,4,230.4
+influencer,Campaign_B,7,5d636fe3-820b-4a21-b782-4ca75f5f21d4,Multivitamin,2025-06-28,3,137.05
+influencer,Campaign_A,16,fad0ee91-add8-4d12-bffc-ed91ea84d7b0,Whey Protein,2025-06-27,5,241.8
+influencer,Campaign_B,6,c67ea9cf-d90f-4c9e-acef-2265e18af48b,Whey Protein,2025-07-16,5,128.32
+influencer,Campaign_A,8,88ed03a7-fb1e-4cef-a47d-17597f144ea5,Creatine,2025-06-09,1,197.84
+influencer,Campaign_B,5,b4305848-1216-45ed-9e4b-583d3288bd1e,Mass Gainer,2025-05-27,5,214.57
+influencer,Campaign_B,14,112e724e-6691-4763-b369-8a296e2c94a9,Creatine,2025-05-22,2,142.47
+influencer,Campaign_B,5,936ad825-2db1-4e1b-8f78-328b426b78ec,Multivitamin,2025-06-13,5,157.39
+influencer,Campaign_A,5,ea9c6f03-8e2f-4999-bf6c-3c60fb9cb49d,Mass Gainer,2025-06-29,4,108.56
+influencer,Campaign_B,17,079d8575-9bf2-481f-9cdb-903ce8d24c6c,Whey Protein,2025-07-16,3,220.55
+influencer,Campaign_C,19,a032803e-c45b-4177-a95d-3dcfe9fc08a5,Creatine,2025-07-06,2,139.5
+influencer,Campaign_B,16,442b869b-026b-4451-8550-0dbb040d6dad,Mass Gainer,2025-06-18,5,231.23
+influencer,Campaign_B,13,e60fc3ab-ed15-46f1-879b-2f0b3c05cd13,Mass Gainer,2025-05-23,2,294.42
+influencer,Campaign_C,8,8f14e639-3a09-46e4-8d7f-ed84a92c82a3,Creatine,2025-06-10,2,258.24
+influencer,Campaign_A,14,538335b0-4f01-43c9-8eda-afc4525108ec,Mass Gainer,2025-06-30,4,214.52
+influencer,Campaign_B,13,e3ccc8c5-e78b-427e-bef0-225ba630a357,Multivitamin,2025-05-25,4,289.8
+influencer,Campaign_C,5,a7452a65-d086-4114-b41d-b8835e756d72,Mass Gainer,2025-07-19,1,263.52
+influencer,Campaign_A,15,fdb5d3f9-4af0-4161-8e17-d7d91b18e213,Creatine,2025-06-08,1,219.51
+influencer,Campaign_C,14,e2b0a1a5-7061-4553-ab12-62c98e89c515,Multivitamin,2025-06-05,1,146.15
+influencer,Campaign_B,9,db77cfba-26a1-452d-a064-58240e49cb39,Creatine,2025-06-11,1,257.01
+influencer,Campaign_B,18,7ac77e13-8277-4988-964f-1c166550349e,Mass Gainer,2025-06-08,4,262.99
+influencer,Campaign_C,2,ed5c00ea-785d-4463-8da7-dc8c376f5c95,Whey Protein,2025-05-31,2,193.04
+influencer,Campaign_A,10,535fb936-d82c-4696-9892-2a1488fce95c,Whey Protein,2025-06-20,4,293.72
+influencer,Campaign_B,4,d315846d-49f9-45a3-a1a0-e862a5d11642,Multivitamin,2025-07-16,3,271.99
+influencer,Campaign_B,2,417beef5-9574-40ed-93ec-f98c4fcbf9f5,Whey Protein,2025-05-24,3,113.95
+influencer,Campaign_A,14,102a2eb0-242c-4e0a-8f14-47e68f9019ec,Multivitamin,2025-06-02,5,129.5
+influencer,Campaign_A,6,5d54d803-4aa6-44df-b3f1-9d6edc79f0a1,Multivitamin,2025-07-16,1,186.75
+influencer,Campaign_C,13,b3b5f847-dbc5-4381-8356-8e22bd326a49,Multivitamin,2025-06-13,4,274.72
+influencer,Campaign_A,5,dcf03544-c415-462f-9aa8-dd1f78b0db30,Creatine,2025-05-22,3,143.28
+influencer,Campaign_B,1,c842c375-32f6-41b3-b48c-48ada886d0dd,Mass Gainer,2025-07-04,5,55.81
+influencer,Campaign_B,15,bb5df774-d126-4ce7-81e5-0a9bb498056f,Mass Gainer,2025-06-11,4,210.19
+influencer,Campaign_B,15,3e1766ab-8a1e-4b1b-948b-ab403c1b7672,Multivitamin,2025-07-07,4,257.47
+influencer,Campaign_A,4,ebbd4c52-bc0c-4899-bf76-1246ea310725,Creatine,2025-06-14,5,114.1
+influencer,Campaign_C,10,33142cff-ea53-4b03-b503-d098d4b3da3f,Mass Gainer,2025-05-24,1,293.6
+influencer,Campaign_B,13,cebe6acb-7bc3-4d32-b2fc-67b733e6cfc0,Whey Protein,2025-06-03,5,260.87
+influencer,Campaign_C,2,f745aed1-324f-4587-8505-f4a290566ab7,Creatine,2025-07-19,3,234.96
+influencer,Campaign_C,8,bf9bb007-e518-420b-bc43-35f62fce1a0c,Mass Gainer,2025-06-16,2,194.62
+influencer,Campaign_B,20,eef46cb3-0b54-49f4-8bfa-b8c74c25cbf4,Multivitamin,2025-07-08,1,271.99
+influencer,Campaign_B,2,a3e664ec-726d-4664-afb6-309c238cf69e,Creatine,2025-06-14,1,178.08
+influencer,Campaign_A,5,0fc4ea7f-5635-426e-8bbd-2760bd15ef78,Mass Gainer,2025-07-16,3,226.77
+influencer,Campaign_A,6,5c2e3338-dd09-464a-98d1-93d73563e2fb,Multivitamin,2025-06-06,5,264.17
+influencer,Campaign_C,12,fc310a82-5658-4a2f-a90b-d737c1b35e5e,Mass Gainer,2025-07-17,2,84.52
+influencer,Campaign_B,16,3630d7ad-e0d3-4573-91b8-4f645d7aad1d,Mass Gainer,2025-06-17,1,145.82
+influencer,Campaign_A,3,3b0239f9-4ea2-4230-a91c-4d6cbac8fe78,Multivitamin,2025-07-03,4,290.51
+influencer,Campaign_B,18,0a3ccb75-8edc-40e2-826f-a7f0f4b9a16d,Whey Protein,2025-07-02,4,14.04
+influencer,Campaign_A,18,9f5203cd-2ff9-4cb3-881d-ab9a8056136d,Creatine,2025-06-20,3,205.12
+influencer,Campaign_C,9,015589d4-d76d-48e3-9fc3-eb5b39cd5aca,Creatine,2025-06-10,3,41.42
+influencer,Campaign_B,8,cf5cf35f-a4cc-4fc7-8270-bc69b428970b,Whey Protein,2025-06-27,5,266.43
+influencer,Campaign_B,18,23f84c84-cda6-47d5-8b4d-626930b59ac6,Multivitamin,2025-06-22,1,194.27
+influencer,Campaign_C,15,66859b3a-1b37-45a5-8ce0-5423523a23c8,Mass Gainer,2025-07-06,4,43.84
+influencer,Campaign_A,2,4672b654-a90f-4e9a-a20b-db34479dd029,Mass Gainer,2025-06-24,4,43.67
+influencer,Campaign_C,8,c20c2feb-9890-4501-be10-78c7ec9997ba,Multivitamin,2025-06-16,4,141.56
+influencer,Campaign_B,18,9db38470-54b7-4278-a44b-e8adc8c34936,Multivitamin,2025-07-06,4,199.93
+influencer,Campaign_C,16,d66b4a41-8074-42d5-9c5d-76bfc9dc1259,Creatine,2025-06-03,3,19.49
+influencer,Campaign_A,12,ce91e6db-d0f2-4a4b-a21c-3531691c986f,Creatine,2025-07-19,4,285.66
+influencer,Campaign_A,12,14f5da3f-1439-452b-96a0-3c0495c66d47,Mass Gainer,2025-06-26,5,271.49
+influencer,Campaign_A,12,d0d07ada-50c3-4e2a-b21f-4c99c524f557,Creatine,2025-06-13,3,65.04
+influencer,Campaign_B,4,61d25971-00e9-4e5a-9008-2ec28276c5b4,Whey Protein,2025-07-09,2,196.09
+influencer,Campaign_A,20,ebf4d4a1-9408-4d49-9434-3f6ee1db635c,Whey Protein,2025-07-08,3,80.63
+influencer,Campaign_C,5,9176caa6-027e-4fb9-ada1-0e1d5ca58e59,Multivitamin,2025-06-11,1,250.65
+influencer,Campaign_A,18,b55ce8a0-5766-46f5-9011-ded77c03494c,Multivitamin,2025-05-28,2,105.28
+influencer,Campaign_C,5,aadf0885-c211-4867-89a2-7498dd452eff,Whey Protein,2025-07-09,3,258.94
+influencer,Campaign_A,5,0f8cf501-802e-41bb-b00f-a81ea64d609c,Mass Gainer,2025-06-14,2,41.88
+influencer,Campaign_A,1,c40649c1-e7ac-4f14-8e70-fdada07c65a6,Whey Protein,2025-07-12,3,239.1
+influencer,Campaign_C,8,4341ad76-4b13-48ab-92da-20f9254122b9,Mass Gainer,2025-05-29,1,60.53
+influencer,Campaign_A,2,cc769e74-8eda-4425-ac72-e30c67e771a6,Creatine,2025-06-07,5,42.96
+influencer,Campaign_B,3,c86ca29e-f270-4f8a-945c-8fcb58b93f55,Creatine,2025-05-29,3,158.84
+influencer,Campaign_B,4,27123e27-0b2f-4109-9456-21bb1639ad57,Multivitamin,2025-07-11,5,22.58
+influencer,Campaign_B,17,b1d0f7f9-47a1-4df8-9bd6-abf133ba46c4,Creatine,2025-07-06,1,27.64
+influencer,Campaign_B,16,87378c5b-cd0e-4b4d-848f-88561b537423,Creatine,2025-06-05,1,152.18
+influencer,Campaign_A,15,65669935-ceda-4a1c-b115-f0fa4ed62e5b,Whey Protein,2025-06-20,3,186.41
+influencer,Campaign_A,3,a187a796-6501-4012-800d-b9c4526c3c83,Mass Gainer,2025-07-18,5,193.59
+influencer,Campaign_C,18,18a40533-b915-4c3d-ad0f-613883ac95ad,Mass Gainer,2025-06-30,4,298.44
+influencer,Campaign_B,17,719990ca-9450-4f9f-9a8d-9ff7e47e347c,Creatine,2025-05-30,5,185.57
+influencer,Campaign_C,4,87277c24-9c30-4a55-8e5f-76172960f2bc,Whey Protein,2025-06-29,5,219.04
+influencer,Campaign_B,7,d8f62efb-0e16-4110-b612-1be8e47cc60b,Creatine,2025-07-16,2,130.01
+influencer,Campaign_B,15,64204ff5-89c6-48a8-84a4-a0a97ce3206d,Creatine,2025-06-14,1,100.64
+influencer,Campaign_C,11,29b12fea-bc48-4669-a608-2eb7231d07ab,Mass Gainer,2025-07-04,3,286.54
+influencer,Campaign_A,16,3bca2c89-6f77-4f5f-90db-827ab6466de5,Whey Protein,2025-07-02,1,37.04
+influencer,Campaign_C,4,34b438c9-6f4c-4c17-a707-4f3b3aaa1751,Mass Gainer,2025-06-08,2,171.35
+influencer,Campaign_C,19,ca403d1a-84e6-49b5-bd10-8bf6d53a2207,Mass Gainer,2025-07-11,1,129.13
+influencer,Campaign_C,14,732cd511-2c74-41bf-a4e1-d7aeb3e8412b,Whey Protein,2025-06-02,3,184.12
+influencer,Campaign_A,12,d4f2900c-a886-4df8-863c-be156e5b6494,Multivitamin,2025-05-31,2,200.45
+influencer,Campaign_A,8,7e9d0acf-f0ba-406e-a049-b2006879765b,Mass Gainer,2025-07-07,5,116.59
+influencer,Campaign_C,9,8d86ec5e-72ba-46ae-927c-c5e669840f0d,Multivitamin,2025-06-15,4,255.09
+influencer,Campaign_C,20,3b32562d-e092-40b2-b1c5-ef78efa024df,Whey Protein,2025-06-21,5,279.43
+influencer,Campaign_A,9,a7c36341-a6a7-4bfb-b445-a6f580487d56,Multivitamin,2025-07-17,3,213.78
+influencer,Campaign_B,10,15b30a6a-2670-403d-be2b-6f14d9a280c5,Mass Gainer,2025-06-06,1,62.61
+influencer,Campaign_C,5,3424b2fb-58d1-4e6d-90fc-0da063998782,Creatine,2025-06-28,1,51.14
+influencer,Campaign_A,1,c9e887ee-9d0b-47d1-a7e5-453b63c42fae,Multivitamin,2025-07-03,4,131.75
+influencer,Campaign_A,11,6f5c97cd-64fc-4e99-b72c-271486f8dcc9,Mass Gainer,2025-06-08,3,219.26
+influencer,Campaign_C,19,41dae3aa-7fe1-481d-af78-9f9dcb497320,Whey Protein,2025-05-23,1,55.12
+influencer,Campaign_A,20,91daca60-efd2-429f-be1c-279a3fb798bf,Whey Protein,2025-06-18,3,138.5
+influencer,Campaign_B,14,0fd79af7-3caf-4a43-b66e-5dd1d2e5e896,Creatine,2025-07-08,4,89.22
+influencer,Campaign_A,17,c9a55af0-a507-4903-935d-f6574b103649,Mass Gainer,2025-05-30,4,42.16
+influencer,Campaign_B,19,649ec1db-76d9-45aa-a886-b59bfb0c8228,Mass Gainer,2025-06-22,1,73.95
+influencer,Campaign_A,20,5d3c2ac3-71a9-4c0f-b190-f8f002ea476f,Whey Protein,2025-07-09,2,97.41
+influencer,Campaign_A,7,e692d618-3557-47a0-a7e1-6c87938ed7e3,Mass Gainer,2025-07-01,3,105.16
+influencer,Campaign_B,1,421b37a1-477d-4d5d-ba03-83f67561d7bc,Creatine,2025-07-08,2,47.46
+influencer,Campaign_C,18,a57c7ffb-b727-4147-977f-c6cf90d2c9d4,Multivitamin,2025-05-25,5,172.03
+influencer,Campaign_A,12,26e04b88-43cf-4a27-b855-6acbf52df93e,Creatine,2025-05-22,1,136.5
+influencer,Campaign_A,15,231992ca-6bb4-4fad-9eb6-3c392b836700,Mass Gainer,2025-07-02,5,134.49
+influencer,Campaign_C,13,6ea28777-8464-4d7f-970b-0ea00855920f,Creatine,2025-06-17,3,43.4
+influencer,Campaign_B,1,02be9f43-8cf1-4431-a502-30b28e0e4e40,Multivitamin,2025-06-08,5,143.43
+influencer,Campaign_A,12,e864a285-e284-4196-b7b7-41dff2582035,Creatine,2025-05-21,1,80.56
+influencer,Campaign_B,19,17b4f9f0-b414-4b71-91b5-1f7df930ab9d,Whey Protein,2025-06-12,4,262.45
+influencer,Campaign_A,11,61a08942-8d14-43a1-bfc3-45bc69fbff5a,Mass Gainer,2025-06-22,2,32.15
+influencer,Campaign_C,4,162f2540-6eed-4b98-b67f-78c0816c1ef5,Multivitamin,2025-05-24,3,111.82
+influencer,Campaign_A,5,8ef2fd59-c9d8-4a39-8133-6fc373b3f3cf,Whey Protein,2025-07-08,2,84.23
+influencer,Campaign_C,6,7524cc55-b938-4b58-bac1-3487c3b1de00,Multivitamin,2025-06-12,1,61.37
+influencer,Campaign_B,16,4439d938-daa0-4d31-a8cb-1efa4f62e028,Creatine,2025-06-09,5,196.47
+influencer,Campaign_B,20,a0be1c3d-6f47-4009-8fdf-84d81e9ef2df,Mass Gainer,2025-06-03,2,137.53
+influencer,Campaign_B,16,87189766-8056-4c56-bcce-d3521005eb87,Mass Gainer,2025-07-08,3,181.51
+influencer,Campaign_C,12,4800c684-51c7-439d-bd35-573666bebfb1,Whey Protein,2025-07-11,3,143.91
+influencer,Campaign_A,2,7eb2002f-2bab-4792-af64-b3faa71f258a,Mass Gainer,2025-07-11,3,32.25
+influencer,Campaign_C,3,d100d14d-4b45-49a1-b4ff-5e5b6395eac4,Creatine,2025-06-15,4,178.3
+influencer,Campaign_B,2,c1ff96a8-79ed-43bb-8fa1-8a1e9b72d7ef,Multivitamin,2025-07-03,3,185.45
+influencer,Campaign_A,17,f79e13ff-ba79-421e-9d8e-5a9870d35a0d,Whey Protein,2025-07-17,4,40.02
+influencer,Campaign_C,11,077c8a7f-5eb3-4193-aa7a-754b5732a12c,Whey Protein,2025-06-09,5,197.38
+influencer,Campaign_A,2,f3deacff-158d-4e74-917c-e33add0c0093,Creatine,2025-07-17,4,161.98
+influencer,Campaign_A,20,30a98433-b3f0-4aee-a048-9604d5188159,Mass Gainer,2025-06-30,3,276.2
+influencer,Campaign_B,13,1e11312a-81ad-46cf-a417-727a41bf11b2,Mass Gainer,2025-06-03,5,25.19
+influencer,Campaign_A,11,393a92e1-65e3-404a-97e3-06dce47e016b,Mass Gainer,2025-06-02,1,171.81
+influencer,Campaign_B,13,c7943f99-d609-48dd-80a5-a0cde7769de4,Mass Gainer,2025-07-08,5,263.25
+influencer,Campaign_A,11,0573bfb8-e21b-4560-a6c1-d8746ce68c04,Multivitamin,2025-06-01,3,99.97
+influencer,Campaign_A,13,9edb1b97-6bd6-4a33-a9a4-b58c8bbe4464,Whey Protein,2025-06-27,3,172.09
+influencer,Campaign_A,11,1121871e-fd11-4238-b9d4-e2bbd27d3836,Whey Protein,2025-06-15,4,157.46
+influencer,Campaign_B,1,f51ab823-8af6-4b0f-90a8-b7c11bd62ccf,Mass Gainer,2025-07-19,2,285.84
+influencer,Campaign_B,11,4a76adae-6770-4cb9-ab1e-a2a4643002d8,Multivitamin,2025-06-07,2,299.99
+influencer,Campaign_A,5,b827a885-7c6d-4a9f-b770-7671ff80e7a2,Mass Gainer,2025-06-27,1,157.23
+influencer,Campaign_C,18,36206e9a-1dc2-4eba-b95e-9fb29c5d8e61,Whey Protein,2025-07-14,3,264.15
+influencer,Campaign_A,20,59b456f5-5618-40cf-bc76-b29188f75f51,Creatine,2025-06-16,2,57.05
+influencer,Campaign_A,20,6d689d22-c474-4cb8-ada1-5e879ed7ecbe,Creatine,2025-07-03,1,129.15
+influencer,Campaign_B,8,255a1e8c-a400-43cd-ba45-647317235449,Mass Gainer,2025-07-12,4,77.86
+influencer,Campaign_B,8,4b70f630-8bd7-49ce-8e04-abda65602a99,Creatine,2025-07-14,2,116.67
+influencer,Campaign_B,19,a5176b5a-67c5-4aba-9224-82d75018e241,Creatine,2025-06-25,3,235.66
+influencer,Campaign_C,17,381674a1-f188-4f17-a029-ccabef5d3daa,Creatine,2025-06-13,2,246.9
+influencer,Campaign_A,20,b925ceaa-fc82-4db1-a722-ee88564e07fc,Mass Gainer,2025-06-22,1,195.94
+influencer,Campaign_C,12,03d2c15c-9452-4906-b8cb-5f028ca38201,Whey Protein,2025-06-23,5,256.84
+influencer,Campaign_A,10,f5767bf6-4ffd-4212-9ad9-66d237d02321,Multivitamin,2025-05-28,3,140.3
+influencer,Campaign_A,17,b45dd79d-073d-4460-b5c4-58cfe1b8e7ba,Creatine,2025-05-24,1,284.46
+influencer,Campaign_B,8,798f941b-1fd6-4e93-9408-f7159c01eb9c,Mass Gainer,2025-07-13,1,130.32
+influencer,Campaign_C,13,1d3f1cdf-0c79-4aae-9601-daaf5c8db9a4,Mass Gainer,2025-05-24,2,121.99
+influencer,Campaign_B,3,4ce52e4f-81d7-49b9-b096-c9762e3c7aa8,Multivitamin,2025-06-26,1,102.42
+influencer,Campaign_C,4,65a9b9be-4b8c-4d1d-b267-95b81d664810,Mass Gainer,2025-07-15,2,49.9
+influencer,Campaign_B,10,b0a20c76-3d60-4d53-80e5-c0a98881a2b2,Multivitamin,2025-06-08,4,140.09
+influencer,Campaign_A,1,39e471d3-e8b9-4b93-b323-114695ee94af,Whey Protein,2025-06-09,3,72.54
+influencer,Campaign_C,5,0ee32676-7289-4eb2-a476-a16931a845b1,Creatine,2025-06-17,1,235.09
+influencer,Campaign_B,8,e87474de-4ecc-4d58-97aa-6e94148c91ab,Whey Protein,2025-07-09,1,79.15
+influencer,Campaign_B,20,5445ea53-2be5-4a9e-aa78-0012aca41ebb,Whey Protein,2025-07-17,1,252.64
+influencer,Campaign_C,16,45e961e4-47a9-418a-933d-0e095450c578,Whey Protein,2025-06-01,5,176.76
+influencer,Campaign_B,5,ab6369e5-79dc-46cb-94ac-95030f775bf1,Creatine,2025-07-18,1,188.29
+influencer,Campaign_C,8,37706f7e-60ae-4543-9c8f-4a30c431b83a,Creatine,2025-07-05,2,202.67
+influencer,Campaign_C,3,f7f2a2fb-a839-4334-9132-f4799855830c,Mass Gainer,2025-05-22,1,286.49
+influencer,Campaign_C,18,6875fcdb-7bc7-40e9-9d8a-849e8c9dc254,Whey Protein,2025-07-17,4,263.27
+influencer,Campaign_C,2,3790a92e-f536-4e02-9a12-8d87353b42aa,Creatine,2025-07-14,3,83.56
+influencer,Campaign_B,1,3f969ece-d33e-400f-8c27-5a148bbb68ad,Whey Protein,2025-06-11,3,79.93
+influencer,Campaign_C,4,0edd1456-1698-4e33-8772-0ce898ba2c98,Mass Gainer,2025-05-31,2,22.86
+influencer,Campaign_B,18,773ab153-6a23-483a-a9ab-187bb023dbc2,Multivitamin,2025-06-26,4,294.44
+influencer,Campaign_C,16,b66a3b40-b414-461c-a47a-35fe314e26f0,Multivitamin,2025-06-16,2,28.3
+influencer,Campaign_A,15,bafae218-af0f-4ae1-876b-05353686262c,Mass Gainer,2025-07-02,2,22.7
+influencer,Campaign_A,7,cc42de88-5c29-4d7a-9e4d-7f46c163ffa9,Mass Gainer,2025-06-13,3,159.46
+influencer,Campaign_B,18,53a5e8d2-0994-47de-a371-5cb41fb35993,Mass Gainer,2025-06-13,1,228.45
+influencer,Campaign_B,7,d6f74617-9c35-43c9-9490-a213a8a6fa72,Mass Gainer,2025-07-10,1,261.08
+influencer,Campaign_B,11,6f7ae45d-3da7-46f9-bed9-7a885b9d4701,Whey Protein,2025-06-02,3,136.72
+influencer,Campaign_C,13,27213d76-6f3d-42ad-a34a-93aa990b002a,Creatine,2025-06-30,4,108.32
+influencer,Campaign_B,6,0d861f72-b6eb-473d-8004-67375f61b17f,Creatine,2025-06-19,3,278.05
+influencer,Campaign_B,17,49788272-85db-4b33-8b6d-0b9380e6eb4f,Whey Protein,2025-05-23,4,32.89
+influencer,Campaign_A,20,2962182b-1990-463b-8a29-541f95127005,Mass Gainer,2025-06-14,3,39.75
+influencer,Campaign_C,11,d558f069-1fdf-451c-b6f3-f94ac859cf42,Mass Gainer,2025-07-01,3,139.32
+influencer,Campaign_A,14,64043bdd-6bea-4db3-8587-c9ca6244275f,Creatine,2025-07-10,3,139.67
+influencer,Campaign_C,12,f91d72bf-fbab-451c-a4f7-0aa02bf71d0d,Creatine,2025-06-16,3,195.45
+influencer,Campaign_A,2,d6026f0f-b4c8-4b70-9d23-8f13de1f1bb0,Creatine,2025-05-30,3,158.79
+influencer,Campaign_A,6,df3f6d2f-8e44-4ff6-a32e-d8468dca2198,Multivitamin,2025-05-30,5,206.65
+influencer,Campaign_A,15,b6d34cc6-057a-4dcf-839c-96e40a4050de,Multivitamin,2025-05-26,1,78.44
+influencer,Campaign_B,12,0d8736cb-3b40-496b-96f6-e3a926b19d69,Creatine,2025-06-21,5,19.39
+influencer,Campaign_C,5,6d7bab5f-230e-4d2e-8daa-26cd0d129a5a,Creatine,2025-06-22,3,117.88
+influencer,Campaign_C,3,07d6520c-b392-44df-8c0e-e86350d56749,Multivitamin,2025-05-25,5,116.42
+influencer,Campaign_C,11,a2d6faef-c843-4e9a-a427-945e7a827e84,Mass Gainer,2025-06-19,2,288.55
+influencer,Campaign_C,1,81f475cf-4ee9-4eab-93e4-5faa2568f3e6,Multivitamin,2025-05-23,4,160.15
+influencer,Campaign_A,18,30bfd51b-b0ba-4450-9a1a-93774d1cd4ad,Mass Gainer,2025-06-11,3,214.17
+influencer,Campaign_C,7,c2cc1cb9-95bb-4619-b6ac-39e4a44df11c,Mass Gainer,2025-05-22,4,68.05
+influencer,Campaign_A,5,d60bb741-5841-4c15-b26e-4039be221dc0,Creatine,2025-06-22,2,270.62
+influencer,Campaign_A,15,9b3bbbcf-8679-4a53-afe1-be71206dd47c,Mass Gainer,2025-07-18,3,215.77
+influencer,Campaign_C,18,3898200a-109e-4c1f-8bbb-1b9fab61ace2,Mass Gainer,2025-05-25,3,256.89
+influencer,Campaign_B,6,c0abc6de-a8cb-4dd8-aeab-7f71797fcb88,Multivitamin,2025-07-04,1,295.69
+influencer,Campaign_A,5,085f5210-1d70-43b3-a0a0-19033f564c41,Creatine,2025-06-10,1,114.66
+influencer,Campaign_B,19,2724901a-991a-41c9-8db2-d9a5a2b097a3,Creatine,2025-07-06,5,47.63
+influencer,Campaign_A,3,c95c4d71-595a-466d-9056-c3c08c7d1f5c,Mass Gainer,2025-06-30,4,299.88
+influencer,Campaign_C,16,48a6caae-1d8b-4cdc-8b1e-b0a2ba11d858,Creatine,2025-06-07,4,248.77
+influencer,Campaign_A,3,b0bac60e-b9c6-4e70-b5aa-c664fe3b3143,Mass Gainer,2025-05-29,1,140.49
+influencer,Campaign_B,17,2f218e7c-14e1-4c63-b038-4e983ccb4b8d,Multivitamin,2025-06-03,5,195.54
+influencer,Campaign_A,6,0473e3f7-fdf5-40e4-8215-a6d1e828d8de,Creatine,2025-05-25,5,274.11
+influencer,Campaign_A,2,48cc437b-07fd-4be5-a172-9da45fd36f72,Multivitamin,2025-07-02,3,57.75
+influencer,Campaign_C,11,5bdc26df-8217-453e-921f-92785c486cf6,Multivitamin,2025-06-28,3,284.77
+influencer,Campaign_B,17,1f5c5640-4dce-4240-864f-567c6152255a,Whey Protein,2025-07-17,3,66.93
+influencer,Campaign_B,18,1d6b3c19-caeb-4a1c-bb5d-73f09161a980,Multivitamin,2025-06-30,3,188.18
+influencer,Campaign_C,3,0c901122-1f58-437d-aea2-ccadcd1d56f5,Multivitamin,2025-07-14,5,283.07
+influencer,Campaign_A,5,6e63ac63-9b76-4939-baf2-e92b26ba72b0,Mass Gainer,2025-07-05,5,21.95
+influencer,Campaign_A,1,2a0af73d-0153-4e16-bc8b-06327a657109,Whey Protein,2025-07-17,5,86.75
+influencer,Campaign_C,7,7f8105d4-1eab-4422-93ce-30b87b9b54cf,Creatine,2025-07-06,5,195.31
+influencer,Campaign_C,16,2c57de70-0c69-47fd-b6f0-b0c8df22d6be,Mass Gainer,2025-06-03,3,150.05
+influencer,Campaign_B,13,09e96c58-71ff-4b4f-852b-ffef818a0615,Creatine,2025-06-28,1,209.7
+influencer,Campaign_B,6,38440ab0-119d-491e-b7d7-969e2c59b9fc,Creatine,2025-06-17,4,144.69
+influencer,Campaign_C,11,ac62e199-1c0b-4b00-a6c3-5ea6171f7fcd,Multivitamin,2025-07-09,3,259.83
+influencer,Campaign_C,11,ed8a3fb8-0d3d-47b3-b60b-9ae98dd516ef,Mass Gainer,2025-06-24,4,47.92
+influencer,Campaign_C,12,2832b264-16a2-4080-9a4a-237fdbca6b1a,Whey Protein,2025-06-09,3,80.1
+influencer,Campaign_B,4,9bf040c9-ffe4-4714-80a7-91d5598199f3,Creatine,2025-07-16,2,50.85
+influencer,Campaign_B,2,10674965-a66e-40e1-8a3e-4dfd587096ee,Creatine,2025-05-21,5,131.26
+influencer,Campaign_B,6,e43bb32f-4090-4a22-b028-5f9a133fd6cc,Mass Gainer,2025-07-10,2,231.31
+influencer,Campaign_C,16,727d39f0-9532-427d-ab56-fbba6fb033c2,Creatine,2025-06-22,4,264.93
+influencer,Campaign_A,16,8e748da3-5ed4-4c3a-bb95-be10b99d56f0,Whey Protein,2025-07-07,4,156.58
+influencer,Campaign_A,8,871f1213-e752-4846-a765-8713f59dd92b,Mass Gainer,2025-07-19,1,24.66
+influencer,Campaign_C,16,adade4cc-58b9-4107-b229-ca3d31890a49,Creatine,2025-07-06,3,165.64
+influencer,Campaign_B,4,ba83e1e4-50ca-48b6-a4b0-7314d93ad026,Multivitamin,2025-06-09,3,220.98
